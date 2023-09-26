@@ -8,23 +8,27 @@
     "rank" : 1
   },
   {
-    "name" : "Gameplay",
+    "name" : "Camera Mods",
     "rank" : 2
   },
   {
-    "name" : "Tweaks / Tools",
+    "name" : "Gameplay",
     "rank" : 3
   },
   {
-    "name" : "Libraries",
+    "name" : "Tweaks / Tools",
     "rank" : 4
   },
   {
-    "name" : "Other Mod menus",
+    "name" : "Libraries",
     "rank" : 5
   },
   {
-    "name" : "Cosmetic",
+    "name" : "Other Mod menus",
     "rank" : 6
+  },
+  {
+    "name" : "Cosmetic",
+    "rank" : 7
   }
 ]
