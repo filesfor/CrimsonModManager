@@ -8,6 +8,18 @@
     "download_url": "https://github.com/BepInEx/BepInEx/releases/download/v5.4.22/BepInEx_x64_5.4.22.0.zip"
   },
   {
+    "name": "YizziCamModV2",
+    "author": "Yizzii",
+    "version": "1.0.8",
+    "dependencies": [
+      "Utilla"
+    ],
+    "install_location": "BepInEx/plugins",
+    "git_path": "Yizzii/YizziCamModV2",
+    "group": "Camera Mods",
+    "download_url": "https://github.com/filesfor/YizziCamModV2/releases/download/V1.0.8/YizziCamModV2.zip"
+  },
+  {
     "name": "Bepinject",
     "author": "Auros",
     "version": "1.0.1",
