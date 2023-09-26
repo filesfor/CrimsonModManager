@@ -4,7 +4,7 @@
     "rank" : 0
   },
   {
-    "name" : "Cosmetic",
+    "name" : "Crimson Client",
     "rank" : 1
   },
   {
@@ -23,4 +23,8 @@
     "name" : "Mod menus",
     "rank" : 5
   },
+  {
+    "name" : "Cosmetic",
+    "rank" : 6
+  }
 ]
