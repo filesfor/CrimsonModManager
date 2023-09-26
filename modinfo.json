@@ -75,4 +75,14 @@
     "group": "Libraries",
     "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.10/Utilla.zip"
   },
+  {
+    "name": "CrimsonClient",
+    "author": "Crimson",
+    "version": "4.2",
+    "git_path": "filesfor/CrimsonClient",
+    "group": "Crimson Client",
+    "download_url": "https://github.com/filesfor/CrimsonClient/releases/download/V4.2/CrimsonClient.zip"
+  }
+    
+    
 ]
