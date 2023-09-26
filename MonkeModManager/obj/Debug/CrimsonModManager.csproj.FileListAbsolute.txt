@@ -1,0 +1,6 @@
+D:\DownloadsNEW\MonkeModManager-master\MonkeModManager-master\MonkeModManager\obj\Debug\CrimsonModManager.csproj.AssemblyReference.cache
+D:\DownloadsNEW\MonkeModManager-master\MonkeModManager-master\MonkeModManager\obj\Debug\MonkeModManager.FormMain.resources
+D:\DownloadsNEW\MonkeModManager-master\MonkeModManager-master\MonkeModManager\obj\Debug\MonkeModManager.FormSelectPlatform.resources
+D:\DownloadsNEW\MonkeModManager-master\MonkeModManager-master\MonkeModManager\obj\Debug\MonkeModManager.Properties.Resources.resources
+D:\DownloadsNEW\MonkeModManager-master\MonkeModManager-master\MonkeModManager\obj\Debug\CrimsonModManager.csproj.GenerateResource.cache
+D:\DownloadsNEW\MonkeModManager-master\MonkeModManager-master\MonkeModManager\obj\Debug\CrimsonModManager.csproj.CoreCompileInputs.cache
