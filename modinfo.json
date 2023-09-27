@@ -95,6 +95,17 @@
     "group": "Crimson Client",
     "download_url": "https://github.com/filesfor/CrimsonClient/releases/download/V4.2/CrimsonClient.zip"
   }
+  {
+    "name": "NametagMod",
+    "author": "ShibaGT",
+    "version": "12.9",
+    "dependencies": [
+      "Utilla",
+    ],
+    "git_path": "filesfor/NametagMod",
+    "group": "",
+    "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/3.0.2/GorillaCosmetics-3.0.2.zip"
+  },
     
     
 ]
