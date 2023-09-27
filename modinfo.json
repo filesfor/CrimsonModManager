@@ -100,11 +100,11 @@
     "author": "ShibaGT",
     "version": "12.9",
     "dependencies": [
-      "Utilla",
+      "Gameplay",
     ],
     "git_path": "filesfor/NametagMod",
     "group": "",
-    "download_url": "https://github.com/legoandmars/GorillaCosmetics/releases/download/3.0.2/GorillaCosmetics-3.0.2.zip"
+    "download_url": "https://github.com/filesfor/NametagMod/releases/download/V12.9/NametagMod.zip"
   },
     
     
