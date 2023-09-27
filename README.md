@@ -1,2 +1,4 @@
 # CrimsonModManager
-Hello This Is Snake You Might Think This App Is A Virus Or A RAT But It Is Not The Reason Antiviruses Say Its A Virus Is Because It Injects DLLs Into Your Game It Does Exactly What Monke Mod Manager Does So Please Stop Telling People It Is A RAT, Thank You.
+Hello this is Snake you might think this app is a virus or a RAT but it is not the reason antiviruses say its a virus is because it injects DLLs into your game it does almost exactly what monke mod manager does so please stop telling people it is a RAT, thank you.
+
+(I have now uploaded the files so you can read the code yourself)
