@@ -83,9 +83,9 @@
     "name": "Utilla",
     "author": "Bobbie",
     "version": "1.6.10",
-    "git_path": "legoandmars/Utilla",
+    "git_path": "filesfor/Utilla",
     "group": "Libraries",
-    "download_url": "https://github.com/legoandmars/Utilla/releases/download/v1.6.10/Utilla.zip"
+    "download_url": "https://github.com/filesfor/Utilla/releases/download/v1.6.10/Utilla.zip"
   },
   {
     "name": "CrimsonClient",
