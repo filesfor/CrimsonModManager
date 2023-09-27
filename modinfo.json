@@ -100,10 +100,10 @@
     "author": "ShibaGT",
     "version": "12.9",
     "dependencies": [
-      "Gameplay",
+      "Utilla",
     ],
     "git_path": "filesfor/NametagMod",
-    "group": "",
+    "group": "Gameplay",
     "download_url": "https://github.com/filesfor/NametagMod/releases/download/V12.9/NametagMod.zip"
   },
     
