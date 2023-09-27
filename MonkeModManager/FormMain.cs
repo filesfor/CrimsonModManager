@@ -19,7 +19,7 @@ namespace MonkeModManager
     {
 
         private const string BaseEndpoint = "https://api.github.com/repos/";
-        private const Int16 CurrentVersion = 7;
+        private const Int16 CurrentVersion = 1;
         private List<ReleaseInfo> releases;
         Dictionary<string, int> groups = new Dictionary<string, int>();
         private string InstallDirectory = @"";
@@ -672,13 +672,13 @@ namespace MonkeModManager
         private void CheckVersion()
         {
             UpdateStatus("Checking for updates...");
-            Int16 version = Convert.ToInt16(DownloadSite("https://raw.githubusercontent.com/DeadlyKitten/MonkeModManager/master/update.txt"));
+            Int16 version = Convert.ToInt16(DownloadSite("https://raw.githubusercontent.com/filesfor/CrimsonModManager/main/update.txt"));
             if (version > CurrentVersion)
             {
                 this.Invoke((MethodInvoker)(() =>
                 {
-                    MessageBox.Show("Your version of the mod installer is outdated! Please download the new one!", "Update available!", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-                    Process.Start("https://github.com/DeadlyKitten/MonkeModManager/releases/latest");
+                    MessageBox.Show("Your version of the mod installer is outdated! Please download the new one! Or Are You Trying To Skid?", "Update available!", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                    Process.Start("https://github.com/filesfor/CrimsonModManager/releases/latest");
                     Process.GetCurrentProcess().Kill();
                     Environment.Exit(0);
                 }));
